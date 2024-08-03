@@ -1,16 +1,10 @@
-# vehiculos_gestor
+# Gestor de Vehículos
 
-A new Flutter project.
+Este proyecto contiene una app hecha en flutter para poder gestionar tu o tus vehículos. Se publicara una version en play store para poder tener una versión oficial a todo publico,
+sin embargo si eres programador puedes compilar y modificar a tu gusto para personalizar la experiencia.
 
-## Getting Started
+## ¿Cual es el objetivo?
 
-This project is a starting point for a Flutter application.
+El objetivo de este proyecto es que puedas administrar cuando hiciste el ultimo servicio de tu vehiculo, que aceite le aplicaste, 
+cual que piezas cambiaste, en que kilometraje, que taller, a que hora, y todos los detalles que se puedan adaptar a tu necesidad.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

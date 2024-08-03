@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:vehiculos_gestor/mvvm/observer.dart';
 import 'package:vehiculos_gestor/screens/Main/ui/MainState.dart';
 import 'package:vehiculos_gestor/screens/Main/ui/MainViewModel.dart';
+import 'package:vehiculos_gestor/screens/Main/ui/MainWidget.dart';
 
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});
@@ -31,7 +32,7 @@ class _MainScreenState extends State<MainScreen> implements EventObserver {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return MainBody(state: state, viewModel: viewModel,);
   }
 
   @override
